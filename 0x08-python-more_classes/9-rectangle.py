@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+"""9-rectangle, built for Holberton Python project 0x08 task 9.
+"""
 
 class Rectangle:
     """Class for printing or computation of dimensions of a rectangle.
